@@ -16,6 +16,14 @@
 		</header>
 
 		<main>
+
+			<section>
+				
+			</section>
+			
+			<aside>
+				
+			</aside>
 			
 		</main>
 
