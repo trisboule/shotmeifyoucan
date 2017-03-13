@@ -8,10 +8,22 @@
 
 	<body>
 		<header>
+
+			<nav>
+				
+			</nav>
 		
 		</header>
 
 		<main>
+
+			<section>
+				
+			</section>
+			
+			<aside>
+				
+			</aside>
 			
 		</main>
 
